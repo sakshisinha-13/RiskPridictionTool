@@ -1,5 +1,5 @@
 Construction Risk Monitoring Dashboard
-Live Demo: construction-risk-monitoring.vercel.app
+Live Demo: https://construction-risk-monitoring.vercel.app/ 
 
 An AI-powered tool to monitor and predict risks in construction projects. The platform includes an intuitive frontend dashboard and a backend ML model that analyzes supply chain vulnerabilities, predicts potential risk levels, and suggests mitigation strategies.
 
